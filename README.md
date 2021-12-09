@@ -1,11 +1,12 @@
 # Dragon Cave Datasheet Builder
 
-깃허브 사용법 잘 모르니까 [포럼](https://forums.dragcave.net/profile/241015-kingchobab/)이나 메일(king_chobab@naver.com)으로 연락주세요
+깃허브 사용법 잘 모르니까 [포럼](https://forums.dragcave.net/profile/241015-kingchobab/)이나 메일(king_chobab@naver.com)으로 연락주세요.
+
 I do not know how to use Github, so please contact me through the [forum](https://forums.dragcave.net/profile/241015-kingchobab/) or e-mail(king_chobab@naver.com).
 
 ## 개요(Summary)
 
-Dragon Cave의 드래곤을 조금 더 쉽게 관리하기 위해, 교배 편의성을 높이기 위해 만든 프로그램입니다.
+[Dragon Cave](https://dragcave.net/)의 드래곤을 조금 더 쉽게 관리하기 위해, 교배 편의성을 높이기 위해 만든 프로그램입니다.
 
 프로그램을 실행하고 본인 아이디를 입력하면 스크롤에서 드래곤 리스트를 불러와서 csv파일로 몇가지 정보와 함께 리스트업 해줍니다.
 
@@ -15,7 +16,7 @@ Dragon Cave의 드래곤을 조금 더 쉽게 관리하기 위해, 교배 편의
 혹시 제외된 것들도 필요한 사람이 있다면, 수정하는 것도 고려하겠습니다.
 
 
-This program was created to improve the breeding convenience and to manage Dragon Cave's dragons more easily.
+This program was created to improve the breeding convenience and to manage [Dragon Cave](https://dragcave.net/)'s dragons more easily.
 
 Run the program and enter your ID to load the scroll's dragon list and save it as a csv file with some information.
 
