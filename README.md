@@ -15,8 +15,8 @@ Information provided: ID, Name, Breed, Born in, Gender, Parent, Generation, Spou
 Eggs, Hatchlings, dead dragons, undead, and non-gender dragons are excluded from the list as their main purpose is to manage bloodlines.
 If there is someone who needs the excluded ones, I will consider modifying them.
 
-##<span style="color:red">exe파일을 디코딩하지 마세요
-##<span style="color:red">Do not try to decode the exe file
+<h2><span style="color:red">exe파일을 디코딩하지 마세요
+  <span style="color:red">Do not try to decode the exe file</h2>
 
 ***
 
