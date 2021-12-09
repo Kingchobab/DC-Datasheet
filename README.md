@@ -1,6 +1,6 @@
 # Dragon Cave Datasheet Builder
 
-##-- 개요(Summary) --
+##\-- 개요(Summary) --
 
 Dragon Cave의 드래곤을 조금 더 쉽게 관리하기 위해, 교배 편의성을 높이기 위해 만든 프로그램입니다.
 프로그램을 실행하고 본인 아이디를 입력하면 스크롤에서 드래곤 리스트를 불러와서 csv파일로 몇가지 정보와 함께 리스트업 해줍니다.
@@ -20,7 +20,7 @@ If there is someone who needs the excluded ones, I will consider modifying them.
 
 ***
 
-##-- 사용법(Description) --
+##\-- 사용법(Description) --
 아마도 백신이 바이러스로 오진할 텐데, 예외처리 해주세요. 예외처리 방법은 "백신이름 예외"라고 검색하시면 나옵니다.(ex - "어베스트 예외", "알약 예외" 등...)
 Perhaps the antivirus will detect this as a virus. Please handle the exception.
 py랑 exe 둘 중에 하나만 받으시면 됩니다. 선택 기준은 아래를 참고해주세요.
@@ -50,7 +50,7 @@ API key and interpreter are required.
 The reason I'm giving you two choices is that the exe is much larger than the py.
 ***
 
-##-- Environment --
+##\-- Environment --
 exe파일은 윈도우환경에서만 작동합니다.
 윈도우 10 이외의 환경에서 되도록이면 사용하지 말아주세요. 다른 윈도우 버전은 테스트를 안해봤습니다.
 윈도우 8도 되기는 하겠지만 정상 작동할지 확신할 수 없습니다.
@@ -60,7 +60,7 @@ Windows 8 will probably work without problems. But I can't say for sure.
 
 ***
 
-##-- Prerequisite --
+##\-- Prerequisite --
 직접 컴파일 할 때는 다음과 같은 패키지가 필요합니다:
 If you are compiling yourself, you will need the packages:
 * beautifulsoup4
