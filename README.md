@@ -6,6 +6,7 @@ I do not know how to use Github, so please contact me through the [forum](https:
 
 ## 개요(Summary)
 
+![image](https://forums.dragcave.net/uploads/monthly_2021_12/image.png.f13f8bcf29db326005dc9444ce80cf19.png)
 [Dragon Cave](https://dragcave.net/)의 드래곤을 조금 더 쉽게 관리하기 위해, 교배 편의성을 높이기 위해 만든 프로그램입니다.
 
 프로그램을 실행하고 본인 아이디를 입력하면 스크롤에서 드래곤 리스트를 불러와서 csv파일로 몇가지 정보와 함께 리스트업 해줍니다.
